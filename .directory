@@ -1,0 +1,15 @@
+[Desktop Entry]
+Icon=folder-red
+
+[Dolphin]
+GroupedSorting=true
+HeaderColumnWidths=530,88,127
+SortFoldersFirst=false
+SortOrder=1
+SortRole=modificationtime
+Timestamp=2020,6,1,6,20,8
+Version=4
+ViewMode=1
+
+[Settings]
+HiddenFilesShown=true
